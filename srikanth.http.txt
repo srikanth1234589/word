@@ -4,3 +4,10 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 thtas the usage of git
+<div>
+<h1>hello</h1>
+<div><img src="img_hello_world.jpg" alt="Hello World from Space"
+style="width:100%;max-width:960px"></div>
+<p>paragraph</p>
+<p>paragraph</p>
+</div>
